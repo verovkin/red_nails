@@ -1,2 +1,2 @@
-# red_nails
-RedNails Telegram Bot
+# Red Nails
+Telegram Bot
